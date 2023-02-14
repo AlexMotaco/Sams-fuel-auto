@@ -603,7 +603,7 @@ body.page #main-content { padding-top: 0; padding-bottom: 0; }
 
 /* Header
 -------------------------------------------------------------- */
-#site-header { position: relative; background-color: #fff; box-shadow: 0 0 7px rgba(0, 0, 0, 0.15); }
+#site-header { position: relative; background-color: #333; box-shadow: 0 0 7px rgba(0,0,0,0.85); }
 #site-header-inner { position: relative; padding-top: 28px; padding-bottom: 28px; height: 100%; -webkit-transition: all ease 0.3s; -moz-transition: all ease 0.3s; transition: all ease 0.3s; }
 #site-logo { float: left; max-width: 100%; -webkit-transition: all ease 0.3s; -moz-transition: all ease 0.3s; transition: all ease 0.3s; }
 #site-logo-inner { margin-top: 2px; }
